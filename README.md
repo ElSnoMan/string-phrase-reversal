@@ -10,6 +10,9 @@ Write a function that will take any given string as input and will output the re
 - `'Everybody wants, to rule the world?'` should become `'world the, rule to wants Everybody?'`
 
 ### Run the program:
+Requirements:
+This was created using Python v3.7, but should be fine with 3.x or higher.
+
 On windows:
 - `$ python app.py`
   
